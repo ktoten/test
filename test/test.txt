@@ -6,8 +6,4 @@ iiii
 ううう
 eeeee
 あああ
-1
-22
-333
-ssss
-aaaa
+qqqqq
